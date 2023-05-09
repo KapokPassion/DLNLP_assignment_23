@@ -1,1 +1,1 @@
-The folder where the trained model is located.
+Run the taskA.py. The trained model will be saved here.
