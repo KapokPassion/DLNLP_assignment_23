@@ -1,1 +1,1 @@
-The folder where the trained model is located.
+Run the train_vgg.py. The trained model will be saved here.
