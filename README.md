@@ -19,6 +19,8 @@ After downloading, put it in the baike_qa2019 folder of Task B, which contains t
 If you want to adjust the network structure by yourself, you need to download the training data or replace the data yourself. If you want to directly see the accuracy of the model or use the model directly, run test.py directly
 (the model folder already contains a trained model)
 ## Task D 
-First run taskD.py to train the model, and then run loadModel.py to load and use the model. (the model folder already contains a trained model)
+First run taskD.py to train the model, and then run loadModel.py to load and use the model.
 ## Task E
 Adjust the train_test_optim.py comment part of the code to generate different models, run test_train_optim.py to test the accuracy, pay attention to change the folder name, otherwise it will be overwritten.
+
+Since the trained model is too large to be uploaded to github, you can read the readme.txt file in the model folder to get the prompt information for generating the model
